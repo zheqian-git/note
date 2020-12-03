@@ -1,3 +1,4 @@
 Git is a software.
 Git is a ...
 Git has a mutable index called stage.
+Git tracks changes.
