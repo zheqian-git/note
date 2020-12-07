@@ -5,7 +5,6 @@ Git tracks changes of files.
 
 Git branch test!
 
-
-
-
 Creating a new branch is quick and simple.
+
+add merge
