@@ -10,4 +10,4 @@ Creating a new branch is quick and simple.
 add merge
 add tag
 
-dev dev dev +++ 不加跟踪 远程修改 本地修改 X2
+dev dev dev
